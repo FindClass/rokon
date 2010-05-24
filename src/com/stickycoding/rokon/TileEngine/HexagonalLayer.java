@@ -1,4 +1,4 @@
-package TileEngine;
+package com.stickycoding.rokon.TileEngine;
 
 import com.stickycoding.rokon.Scene;
 

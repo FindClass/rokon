@@ -1,8 +1,5 @@
 package com.stickycoding.rokonexamples;
 
-import TileEngine.HexagonalLayer;
-import TileEngine.RectangularLayer;
-import TileEngine.TiledSprite;
 import android.view.MotionEvent;
 
 import com.stickycoding.rokon.Debug;
@@ -11,6 +8,8 @@ import com.stickycoding.rokon.DrawableObject;
 import com.stickycoding.rokon.RokonActivity;
 import com.stickycoding.rokon.Scene;
 import com.stickycoding.rokon.Texture;
+import com.stickycoding.rokon.TileEngine.HexagonalLayer;
+import com.stickycoding.rokon.TileEngine.TiledSprite;
 
 public class Launcher extends RokonActivity {
 	
